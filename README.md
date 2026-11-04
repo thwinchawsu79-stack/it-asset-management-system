@@ -91,3 +91,11 @@ Through this project, I aim to develop practical skills in:
 Currently developed features include asset registration, searching, updating, deletion, assignment management, reporting, CSV export, and automated testing.
 
 Git and GitHub integration will be completed as part of the project development process.
+
+Testing Results
+
+The application has been tested using Python's Unittest framework.
+
+- Total automated tests: 20
+- Test result: All tests passed
+- Tested functionality includes asset registration, searching, updating, deletion, assignment, and status management.
