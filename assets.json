@@ -1,0 +1,32 @@
+[
+    {
+        "asset_id": "LAP001",
+        "device_name": "Dell Latitude 5320",
+        "brand": "Dell",
+        "status": "In Use",
+        "assigned_to": "Aung Aung"
+    },
+    {
+        "asset_id": "LAP004",
+        "device_name": "Lenovo Thinkpad",
+        "brand": "Lenovo",
+        "status": "In Use",
+        "assigned_to": "Luke"
+    },
+    {
+        "asset_id": "PRN002",
+        "device_name": "HP LaserJet",
+        "category": "Printer",
+        "brand": "HP",
+        "status": "In Use",
+        "assigned_to": "Maya"
+    },
+    {
+        "asset_id": "LAP003",
+        "device_name": "Dell Inspiron",
+        "category": "Laptop",
+        "brand": "Dell",
+        "status": "In Use",
+        "assigned_to": "Su"
+    }
+]

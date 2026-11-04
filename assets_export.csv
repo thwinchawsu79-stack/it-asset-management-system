@@ -1,0 +1,5 @@
+asset_id,device_name,category,brand,status,assigned_to
+LAP001,Dell Latitude 5320,,Dell,In Use,
+LAP004,Lenovo Thinkpad,,Lenovo,In Use,
+PRN002,HP LaserJet,Printer,HP,Under Maintenance,
+LAP003,Dell Inspiron,Laptop,Dell,Available,Unassigned
